@@ -9,14 +9,8 @@
 <!---
 Kazuto-ua/Kazuto-ua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-echo "# Kazuto-ua" >> README.md 
-git init 
-git add README.md 
-git commit -m "primer compromiso" 
-git rama -M principal 
-git remoto agregar origen https://github.com/Kazuto-ua/Kazuto- ua.git
- git push -u origen principal𝐇𝐨𝐥𝐚! 𝐒𝐨𝐲 𝔑𝔦𝔫𝔬 (𝐏𝐫𝐞𝐦-𝐁𝐨𝐭)
+ https://github.com/Kazuto-ua/Kazuto- ua.git
+ git push -u origen principal𝐇𝐨𝐥𝐚! soy kazuto kirigaya (𝐏𝐫𝐞𝐦-𝐁𝐨𝐭)
 
 »  ⊹˚୨ •(=^●ω●^=)•  *Economy* ⊹
 
